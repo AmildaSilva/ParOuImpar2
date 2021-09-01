@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Par Ou Impar 2</string>
+<string name="par">Par</string>
+<string name="Impar">Ímpar</string>
+<string name="zero">0</string>
+<string name="um">1</string>
+<string name="dois">2</string>
+<string name="tres">3</string>
+<string name="quatro">4</string>
+<string name="cinco">5</string>
+<string name="resultado">Resultado</string>
+    <string name="jogadaDoComputador">Jogada do Computador</string>
+</resources>
